@@ -30,6 +30,10 @@
           <option name="url" value="https://github.com/BibhuprasadJena/Demo1.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BibhuprasadJena/jenkinDemo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Workspace" />
